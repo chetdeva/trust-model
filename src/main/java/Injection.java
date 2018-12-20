@@ -1,5 +1,6 @@
 import com.google.gson.Gson;
 import database.DatabaseService;
+import database.GithubUsersDao;
 import entity.remote.GithubUserResponse;
 import entity.user.GithubUser;
 import files.FilesService;
@@ -39,5 +40,9 @@ public class Injection {
 
     public static GithubUserInteractor getGithubUserInteractor() {
         return GithubUserInteractor.getInstance(getFilesService(), GITHUB_USER_MAPPER);
+    }
+
+    public static GithubUsersDao getGithubUsersDao() {
+        return GithubUsersDao.getInstance(getDatabaseService());
     }
 }
