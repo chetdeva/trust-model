@@ -1,16 +1,13 @@
 package files;
 
 import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
 import com.google.gson.stream.JsonReader;
-import entity.remote.GithubUserResponse;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.lang.reflect.Type;
 import java.net.URL;
-import java.util.List;
 
 public class FilesService {
 

@@ -41,6 +41,10 @@ public class GithubUsersDao {
         return Collections.emptyList();
     }
 
+    public void insert(GithubUser githubUser) {
+
+    }
+
     public void insert(List<GithubUser> githubUsers) {
         Connection connection = null;
         PreparedStatement statement = null;
@@ -65,12 +69,12 @@ public class GithubUsersDao {
                 statement.setInt(6, githubUser.followers);
                 statement.setInt(7, githubUser.contributions);
 
-                // execute the preparedstatement
+                // execute the prepared statement
                 statement.addBatch();
-
             }
 
             int[] numUpdates = statement.executeBatch();
+
             for (int i = 0; i < numUpdates.length; i++) {
                 if (numUpdates[i] == -2) {
                     System.out.println("Execution " + i +
@@ -94,6 +98,7 @@ public class GithubUsersDao {
                 if (statement != null)
                     connection.close();
             } catch (SQLException se) {
+                se.printStackTrace();
             }// do nothing
             try {
                 if (connection != null)

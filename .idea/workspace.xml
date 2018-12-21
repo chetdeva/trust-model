@@ -3,12 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a267e752-daf3-4184-9fe9-2f0ed738b9ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Injection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Injection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Trust.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Trust.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/database/DatabaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/DatabaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/database/GithubUsersDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/GithubUsersDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/files/FilesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/files/FilesService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Trust.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Trust.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,46 +22,47 @@
     <session id="-362412436">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
-          <entry key="java" value="126" />
-          <entry key="json" value="14" />
-          <entry key="properties" value="4" />
+          <entry key="java" value="134" />
+          <entry key="json" value="17" />
+          <entry key="properties" value="5" />
           <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="126" />
-          <entry key="JSON" value="14" />
-          <entry key="Properties" value="4" />
+          <entry key="JAVA" value="134" />
+          <entry key="JSON" value="17" />
+          <entry key="Properties" value="5" />
           <entry key="XML" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="java" value="5042" />
-          <entry key="properties" value="53" />
+          <entry key="java" value="5182" />
+          <entry key="properties" value="65" />
           <entry key="xml" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5042" />
+          <entry key="JAVA" value="5182" />
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Properties" value="53" />
+          <entry key="Properties" value="65" />
           <entry key="XML" value="50" />
         </counts>
       </usages-collector>
@@ -72,23 +70,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Trust.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/database/GithubUsersDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+            <state relative-caret-position="234">
+              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,16 +128,16 @@
         <option value="$PROJECT_DIR$/src/main/java/FilesService.java" />
         <option value="$PROJECT_DIR$/src/main/java/mapper/Mapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/mapper/GithubUserMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/files/FilesService.java" />
         <option value="$PROJECT_DIR$/src/main/java/interactor/GithubUserInteractor.java" />
         <option value="$PROJECT_DIR$/src/main/java/entity/user/GithubUser.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
         <option value="$PROJECT_DIR$/src/main/java/database/GithubUserDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/Injection.java" />
         <option value="$PROJECT_DIR$/src/main/java/database/DatabaseService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/database/GithubUsersDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/Trust.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/files/FilesService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/database/GithubUsersDao.java" />
       </list>
     </option>
   </component>
@@ -201,6 +187,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,14 +219,6 @@
               <item name="trustmodel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trustmodel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trustmodel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -249,13 +229,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Trus&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/Trust.java&#10;Trusy&#9;null&#9;null&#10;GithubU&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/entity/user/GithubUser.java&#10;Trust&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/Trust.java&#10;Injec&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/Injection.java&#10;github-&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/resources/github-users-stats.json&#10;Files&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/FilesService.java&#10;Github&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/entity/remote/GithubUser.java&#10;GithubUs&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/entity/remote/GithubUser.java&#10;gith&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/resources/github-users-stats.json" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545330504913" />
+    <property name="SearchEverywhereHistoryKey" value="Dao&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/database/GithubUsersDao.java&#10;githu&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/resources/github-users-stats.json&#10;github&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/resources/github-users-stats.json&#10;Trus&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/Trust.java&#10;Trusy&#9;null&#9;null&#10;GithubU&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/entity/user/GithubUser.java&#10;Trust&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/Trust.java&#10;Injec&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/Injection.java&#10;github-&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/resources/github-users-stats.json&#10;Files&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/FilesService.java&#10;Github&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/entity/remote/GithubUser.java&#10;GithubUs&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/java/entity/remote/GithubUser.java&#10;gith&#9;FILE&#9;file:///Users/chetsachdeva/IdeaProjects/trustmodel/src/main/resources/github-users-stats.json" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545384418516" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -315,7 +293,7 @@
     <frame x="0" y="23" width="1440" height="819" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29756796" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3018598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,7 +311,6 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3287483" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3297568" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
@@ -342,6 +319,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3297568" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -397,9 +375,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -457,13 +432,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/database/DatabaseConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database/DatabaseConfig.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/store/DataStore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -475,20 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -496,9 +451,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -543,16 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/remote/GithubUserResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/com/google/gson/reflect/TypeToken.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="77">
@@ -560,44 +502,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interactor/GithubUserInteractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="30" column="46" lean-forward="true" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/files/FilesService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/github-users-stats.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="12084" column="19" lean-forward="true" selection-start-line="12084" selection-start-column="19" selection-end-line="12084" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -615,29 +523,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" selection-start-column="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/database/DatabaseService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="154">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Trust.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/files/FilesService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/github-users-stats.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2003">
+          <caret line="12084" column="19" lean-forward="true" selection-start-line="12084" selection-start-column="19" selection-end-line="12084" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interactor/GithubUserInteractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="46" lean-forward="true" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/entity/user/GithubUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="88">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Trust.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/remote/GithubUserResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -646,8 +596,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/database/GithubUsersDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        <state relative-caret-position="234">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
